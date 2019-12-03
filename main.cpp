@@ -2,7 +2,7 @@
   Zuul by Caley Epstein
   A text adventure where the player travels and picks up items
   12/2/19
-  Help with vectors and room creation from Stefan Ene
+  Help with vectors room and item creation from Stefan Ene
  */
 
 #include <iostream>
